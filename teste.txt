@@ -1,2 +1,3 @@
 git@github.com:leandrolldavid/Quasela.git
-nao sei
+nao sei 
+vendo se funciona a atualização
